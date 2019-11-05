@@ -1,4 +1,4 @@
-
+--Autorzy:Michał, Lechu2375
 NAME = "Polski"
 
 LANGUAGE = {
