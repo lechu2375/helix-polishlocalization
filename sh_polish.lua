@@ -241,7 +241,7 @@ LANGUAGE = {
 	consumables = "Towary konsumpcyjne.",
 	plyNotValid = "Nie patrzysz na prawidłowego gracza.",
 	restricted = "Zostałeś związany.",
-	viewProfile = "Obejrzyj profil Steam."
+	viewProfile = "Obejrzyj profil Steam.",
 	------------------------------------------
 	copySteamID = "Copy Steam ID",
 
@@ -249,7 +249,7 @@ LANGUAGE = {
 	moneyLeft = "Twoje Pieniądze: ",
 	currentMoney = "Obecna ilość pieniędzy: ",
 
-	invalidClass = "That is not a valid class!To nie jest odpowiednia klasa!",
+	invalidClass = "To nie jest odpowiednia klasa!",
 	invalidClassFaction = "That is not a valid class for that faction!",
 
 	miscellaneous = "Różne",
